@@ -1,6 +1,7 @@
 # BlackOps3-Dumps
 
-##Lua Script Names
+## Lua Script Names
+
 ```
 ui/uieditor/menus/zm_frontend_require.lua
 ui/uieditor/menus/zm_frontend_require.lua
@@ -973,6 +974,7 @@ ui/uieditor/widgets/systemoverlays/systemoverlay_mappackframe.lua
 ```
 
 ## Weapon Shaders/Names
+
 ```
 defaultweapon
 defaultweapon
@@ -1400,6 +1402,7 @@ WEAPON_SPIKE_CHARGE
 ```
 
 ## Blood/fx //Might dump more FX later
+
 ```
 blood/fx_blood_gib_limb_trail_emitter
 blood/fx_blood_gib_arm_sever_burst
